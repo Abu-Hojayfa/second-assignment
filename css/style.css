@@ -159,13 +159,13 @@ label {
 /* footer */
 .footer {
     background-color: #414141;
-    width: 100%;
     text-align: left;
     font-family: sans-serif;
     font-weight: bold;
     font-size: 16px;
     padding: 50px;
     margin-top: 50px;
+    
 }
 
 .footer .footer-left,
